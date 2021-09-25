@@ -1,4 +1,4 @@
-# リダイレクト
+# リダイレクトに関するメモ
 
 ## 要約
 
@@ -27,4 +27,5 @@
 ## 参考
 
 [302 Found - HTTP | MDN](https://developer.mozilla.org/ja/docs/Web/HTTP/Status/302)
+
 [HTTPステータスコード 302, 303, 307を整理する](https://yinm.hatenadiary.jp/entry/2017/03/29/204714)
